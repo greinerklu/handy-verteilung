@@ -1,0 +1,368 @@
+{
+  "configurationVersion": 14,
+  "supportedModels": [
+    "Redmi Note 14",
+    "Redmi Note 15"
+  ],
+  "apps": [
+    {
+      "displayName": "Lindab Vent Tools",
+      "packageName": "com.lindab.venttools",
+      "catalogId": "lindab_vent_tools",
+      "aliasName": "LindabVentTools",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.lindab.venttools&hl=de&pli=1",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Trox",
+      "packageName": "de.trox.flowcheck",
+      "catalogId": "trox_flowcheck",
+      "aliasName": "TroxFlowcheck",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=de.trox.flowcheck&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Microsoft Teams",
+      "packageName": "com.microsoft.teams",
+      "catalogId": "teams",
+      "aliasName": "Teams",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.microsoft.teams",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Signal",
+      "packageName": "org.thoughtcrime.securesms",
+      "catalogId": "signal",
+      "aliasName": "Signal",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Foxit PDF Editor",
+      "packageName": "com.foxit.mobile.pdf.lite",
+      "catalogId": "foxit_pdf",
+      "aliasName": "FoxitPdf",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.foxit.mobile.pdf.lite",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Würth Deutschland Classic",
+      "packageName": "de.wuerth.customerapp",
+      "catalogId": "wuerth_shop",
+      "aliasName": "WuerthShop",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=de.wuerth.customerapp",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Loxone Schlüssel-App",
+      "packageName": "com.loxone.kerberos",
+      "catalogId": "loxone",
+      "aliasName": "Loxone",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.loxone.kerberos",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "GC Online Plus",
+      "packageName": "de.onlineplus.mobile.gc",
+      "catalogId": "gc_online",
+      "aliasName": "GcOnline",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=de.onlineplus.mobile.gc",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "EasyPark",
+      "packageName": "net.easypark.android",
+      "catalogId": "easypark",
+      "aliasName": "Easypark",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=net.easypark.android",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Google Maps",
+      "packageName": "com.google.android.apps.maps",
+      "catalogId": "google_maps",
+      "aliasName": "GoogleMaps",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Google Chrome",
+      "packageName": "com.android.chrome",
+      "catalogId": "google_chrome",
+      "aliasName": "GoogleChrome",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.android.chrome",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Xiaomi Rechner",
+      "packageName": "com.miui.calculator",
+      "catalogId": "xiaomi_calculator",
+      "aliasName": "XiaomiCalculator",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Xiaomi Uhr",
+      "packageName": "com.android.deskclock",
+      "catalogId": "xiaomi_clock",
+      "aliasName": "XiaomiClock",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Xiaomi Scanner",
+      "packageName": "com.xiaomi.scanner",
+      "catalogId": "xiaomi_scanner",
+      "aliasName": "XiaomiScanner",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Xiaomi Kompass",
+      "packageName": "com.miui.compass",
+      "catalogId": "xiaomi_compass",
+      "aliasName": "XiaomiCompass",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Google Kalender",
+      "packageName": "com.google.android.calendar",
+      "catalogId": "google_calendar",
+      "aliasName": "GoogleCalendar",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.google.android.calendar",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Gmail",
+      "packageName": "com.google.android.gm",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "REQUIRED",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.google.android.gm",
+      "expectedVersion": "",
+      "localFileName": null
+    }
+  ],
+  "placeholderApp": {
+    "packageName": "de.provisioning.station.placeholder",
+    "versionCode": 8,
+    "versionName": "1.1.6",
+    "enabledAliases": [
+      "lindab_vent_tools",
+      "trox_flowcheck",
+      "teams",
+      "signal",
+      "foxit_pdf",
+      "wuerth_shop",
+      "loxone",
+      "gc_online",
+      "easypark",
+      "google_maps",
+      "google_chrome",
+      "xiaomi_calculator",
+      "xiaomi_clock",
+      "xiaomi_scanner",
+      "xiaomi_compass",
+      "google_calendar"
+    ],
+    "aliasTargets": [
+      {
+        "id": "lindab_vent_tools",
+        "aliasName": "LindabVentTools",
+        "packageName": "com.lindab.venttools"
+      },
+      {
+        "id": "trox_flowcheck",
+        "aliasName": "TroxFlowcheck",
+        "packageName": "de.trox.flowcheck"
+      },
+      {
+        "id": "teams",
+        "aliasName": "Teams",
+        "packageName": "com.microsoft.teams"
+      },
+      {
+        "id": "signal",
+        "aliasName": "Signal",
+        "packageName": "org.thoughtcrime.securesms"
+      },
+      {
+        "id": "foxit_pdf",
+        "aliasName": "FoxitPdf",
+        "packageName": "com.foxit.mobile.pdf.lite"
+      },
+      {
+        "id": "wuerth_shop",
+        "aliasName": "WuerthShop",
+        "packageName": "de.wuerth.customerapp"
+      },
+      {
+        "id": "loxone",
+        "aliasName": "Loxone",
+        "packageName": "com.loxone.kerberos"
+      },
+      {
+        "id": "gc_online",
+        "aliasName": "GcOnline",
+        "packageName": "de.onlineplus.mobile.gc"
+      },
+      {
+        "id": "easypark",
+        "aliasName": "Easypark",
+        "packageName": "net.easypark.android"
+      },
+      {
+        "id": "google_maps",
+        "aliasName": "GoogleMaps",
+        "packageName": "com.google.android.apps.maps"
+      },
+      {
+        "id": "google_chrome",
+        "aliasName": "GoogleChrome",
+        "packageName": "com.android.chrome"
+      },
+      {
+        "id": "xiaomi_calculator",
+        "aliasName": "XiaomiCalculator",
+        "packageName": "com.miui.calculator"
+      },
+      {
+        "id": "xiaomi_clock",
+        "aliasName": "XiaomiClock",
+        "packageName": "com.android.deskclock"
+      },
+      {
+        "id": "xiaomi_scanner",
+        "aliasName": "XiaomiScanner",
+        "packageName": "com.xiaomi.scanner"
+      },
+      {
+        "id": "xiaomi_compass",
+        "aliasName": "XiaomiCompass",
+        "packageName": "com.miui.compass"
+      },
+      {
+        "id": "google_calendar",
+        "aliasName": "GoogleCalendar",
+        "packageName": "com.google.android.calendar"
+      }
+    ],
+    "shortcuts": [],
+    "duplicateStrategy": "CATALOG_ALIAS_OR_DYNAMIC_SHORTCUT",
+    "downloadUrl": "https://raw.githubusercontent.com/greinerklu/handy-verteilung/main/provisioning/stable/apks/de.provisioning.station.placeholder-1.1.6.apk",
+    "downloadSha256": "v19ZN-8to2OA9tr6JTCXjy9X-zOTsykcVgHlRrsyRCo"
+  },
+  "redmiHyperOs": {
+    "disablePersonalizedAds": true,
+    "disableRecommendations": true,
+    "onlyApplyToTestedVersions": true
+  },
+  "userFreedom": {
+    "allowExitDpc": true,
+    "allowWifiChanges": true,
+    "allowAccountChanges": true,
+    "allowAppInstall": true,
+    "allowAppUninstall": true,
+    "allowFactoryReset": true,
+    "allowCamera": true,
+    "allowScreenshots": true,
+    "allowUsbFileTransfer": true,
+    "allowBluetooth": true,
+    "allowLocationChanges": true,
+    "allowUnknownSources": true,
+    "autoSetDevicePin": true,
+    "enforceAutomaticTime": false,
+    "enforcePasswordComplexity": false
+  },
+  "appPolicy": {
+    "allowlistEnabled": true,
+    "allowedPackages": [
+      "com.google.android.apps.messaging",
+      "com.android.mms",
+      "com.android.messaging"
+    ]
+  },
+  "policyRevision": "14:0",
+  "email": {
+    "provider": "manual",
+    "appPackage": "com.google.android.gm",
+    "manualSetup": true,
+    "exchangeHost": "connect.klu-klima.de",
+    "exchangePort": 443,
+    "usernamePattern": "{email}",
+    "useSsl": true,
+    "clientCertificateEnabled": false,
+    "acceptAllCertificates": true,
+    "authenticationType": "allow_basic_authentication"
+  },
+  "payrollTestApp": {
+    "displayName": "Lohnabrechnung",
+    "packageName": "com.kluwochenzettel",
+    "playTestUrl": "https://play.google.com/store/apps/details?id=com.kluwochenzettel&utm_source=emea_Med",
+    "testType": "closed",
+    "distributionMode": "play",
+    "verifyTesterStatus": false,
+    "localApkPath": null,
+    "expectedVersion": "",
+    "localFileName": null
+  },
+  "googlePlay": {
+    "verifySignedInAccount": true,
+    "verifyPlayStoreReady": true
+  },
+  "security": {
+    "requireScreenLock": true,
+    "passwordComplexity": "medium",
+    "enforceAutomaticTime": true
+  }
+}
