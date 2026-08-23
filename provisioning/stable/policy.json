@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 14,
+  "configurationVersion": 15,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -182,6 +182,17 @@
       "localFileName": null
     },
     {
+      "displayName": "Microsoft Authenticator",
+      "packageName": "com.azure.authenticator",
+      "catalogId": "authenticator",
+      "aliasName": "Authenticator",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.azure.authenticator",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -213,7 +224,8 @@
       "xiaomi_clock",
       "xiaomi_scanner",
       "xiaomi_compass",
-      "google_calendar"
+      "google_calendar",
+      "authenticator"
     ],
     "aliasTargets": [
       {
@@ -295,6 +307,11 @@
         "id": "google_calendar",
         "aliasName": "GoogleCalendar",
         "packageName": "com.google.android.calendar"
+      },
+      {
+        "id": "authenticator",
+        "aliasName": "Authenticator",
+        "packageName": "com.azure.authenticator"
       }
     ],
     "shortcuts": [],
@@ -332,7 +349,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "14:0",
+  "policyRevision": "15:0",
   "email": {
     "provider": "manual",
     "appPackage": "com.google.android.gm",
