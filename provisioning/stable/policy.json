@@ -195,8 +195,8 @@
   ],
   "placeholderApp": {
     "packageName": "de.provisioning.station.placeholder",
-    "versionCode": 19,
-    "versionName": "1.1.17",
+    "versionCode": 20,
+    "versionName": "1.1.18",
     "enabledAliases": [],
     "aliasTargets": [],
     "shortcuts": [
@@ -298,8 +298,8 @@
       }
     ],
     "presentation": "COMPANY_APP_STORE",
-    "downloadUrl": "https://raw.githubusercontent.com/greinerklu/handy-verteilung/main/provisioning/stable/apks/de.provisioning.station.placeholder-1.1.17.apk",
-    "downloadSha256": "0Ngjrw73IxtbT9EJnkNyJHJP_GUGJAYaGdVrGZZkkc0"
+    "downloadUrl": "https://raw.githubusercontent.com/greinerklu/handy-verteilung/main/provisioning/stable/apks/de.provisioning.station.placeholder-1.1.18.apk",
+    "downloadSha256": "F3clo2bBIFt79V8JVcHF_6tN2IgMUF1uZ8TOKS01V7Q"
   },
   "redmiHyperOs": {
     "disablePersonalizedAds": true,
