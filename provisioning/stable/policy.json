@@ -206,118 +206,117 @@
   ],
   "placeholderApp": {
     "packageName": "de.provisioning.station.placeholder",
-    "versionCode": 9,
-    "versionName": "1.1.7",
-    "enabledAliases": [
-      "lindab_vent_tools",
-      "trox_flowcheck",
-      "teams",
-      "signal",
-      "foxit_pdf",
-      "wuerth_shop",
-      "loxone",
-      "gc_online",
-      "easypark",
-      "google_maps",
-      "google_chrome",
-      "xiaomi_calculator",
-      "xiaomi_clock",
-      "xiaomi_scanner",
-      "xiaomi_compass",
-      "google_calendar",
-      "authenticator"
-    ],
-    "aliasTargets": [
+    "versionCode": 10,
+    "versionName": "1.1.8",
+    "enabledAliases": [],
+    "aliasTargets": [],
+    "shortcuts": [
       {
-        "id": "lindab_vent_tools",
-        "aliasName": "LindabVentTools",
-        "packageName": "com.lindab.venttools"
+        "id": "com.lindab.venttools",
+        "displayName": "Lindab Vent Tools",
+        "packageName": "com.lindab.venttools",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.lindab.venttools&hl=de&pli=1"
       },
       {
-        "id": "trox_flowcheck",
-        "aliasName": "TroxFlowcheck",
-        "packageName": "de.trox.flowcheck"
+        "id": "de.trox.flowcheck",
+        "displayName": "Trox",
+        "packageName": "de.trox.flowcheck",
+        "playUrl": "https://play.google.com/store/apps/details?id=de.trox.flowcheck&hl=de"
       },
       {
-        "id": "teams",
-        "aliasName": "Teams",
-        "packageName": "com.microsoft.teams"
+        "id": "com.microsoft.teams",
+        "displayName": "Microsoft Teams",
+        "packageName": "com.microsoft.teams",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.microsoft.teams"
       },
       {
-        "id": "signal",
-        "aliasName": "Signal",
-        "packageName": "org.thoughtcrime.securesms"
+        "id": "org.thoughtcrime.securesms",
+        "displayName": "Signal",
+        "packageName": "org.thoughtcrime.securesms",
+        "playUrl": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"
       },
       {
-        "id": "foxit_pdf",
-        "aliasName": "FoxitPdf",
-        "packageName": "com.foxit.mobile.pdf.lite"
+        "id": "com.foxit.mobile.pdf.lite",
+        "displayName": "Foxit PDF Editor",
+        "packageName": "com.foxit.mobile.pdf.lite",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.foxit.mobile.pdf.lite"
       },
       {
-        "id": "wuerth_shop",
-        "aliasName": "WuerthShop",
-        "packageName": "de.wuerth.customerapp"
+        "id": "de.wuerth.customerapp",
+        "displayName": "Würth Deutschland Classic",
+        "packageName": "de.wuerth.customerapp",
+        "playUrl": "https://play.google.com/store/apps/details?id=de.wuerth.customerapp"
       },
       {
-        "id": "loxone",
-        "aliasName": "Loxone",
-        "packageName": "com.loxone.kerberos"
+        "id": "com.loxone.kerberos",
+        "displayName": "Loxone Schlüssel-App",
+        "packageName": "com.loxone.kerberos",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.loxone.kerberos"
       },
       {
-        "id": "gc_online",
-        "aliasName": "GcOnline",
-        "packageName": "de.onlineplus.mobile.gc"
+        "id": "de.onlineplus.mobile.gc",
+        "displayName": "GC Online Plus",
+        "packageName": "de.onlineplus.mobile.gc",
+        "playUrl": "https://play.google.com/store/apps/details?id=de.onlineplus.mobile.gc"
       },
       {
-        "id": "easypark",
-        "aliasName": "Easypark",
-        "packageName": "net.easypark.android"
+        "id": "net.easypark.android",
+        "displayName": "EasyPark",
+        "packageName": "net.easypark.android",
+        "playUrl": "https://play.google.com/store/apps/details?id=net.easypark.android"
       },
       {
-        "id": "google_maps",
-        "aliasName": "GoogleMaps",
-        "packageName": "com.google.android.apps.maps"
+        "id": "com.google.android.apps.maps",
+        "displayName": "Google Maps",
+        "packageName": "com.google.android.apps.maps",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps"
       },
       {
-        "id": "google_chrome",
-        "aliasName": "GoogleChrome",
-        "packageName": "com.android.chrome"
+        "id": "com.android.chrome",
+        "displayName": "Google Chrome",
+        "packageName": "com.android.chrome",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.android.chrome"
       },
       {
-        "id": "xiaomi_calculator",
-        "aliasName": "XiaomiCalculator",
-        "packageName": "com.miui.calculator"
+        "id": "com.miui.calculator",
+        "displayName": "Xiaomi Rechner",
+        "packageName": "com.miui.calculator",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.miui.calculator"
       },
       {
-        "id": "xiaomi_clock",
-        "aliasName": "XiaomiClock",
-        "packageName": "com.android.deskclock"
+        "id": "com.android.deskclock",
+        "displayName": "Xiaomi Uhr",
+        "packageName": "com.android.deskclock",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.android.deskclock"
       },
       {
-        "id": "xiaomi_scanner",
-        "aliasName": "XiaomiScanner",
-        "packageName": "com.xiaomi.scanner"
+        "id": "com.xiaomi.scanner",
+        "displayName": "Xiaomi Scanner",
+        "packageName": "com.xiaomi.scanner",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.xiaomi.scanner"
       },
       {
-        "id": "xiaomi_compass",
-        "aliasName": "XiaomiCompass",
-        "packageName": "com.miui.compass"
+        "id": "com.miui.compass",
+        "displayName": "Xiaomi Kompass",
+        "packageName": "com.miui.compass",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.miui.compass"
       },
       {
-        "id": "google_calendar",
-        "aliasName": "GoogleCalendar",
-        "packageName": "com.google.android.calendar"
+        "id": "com.google.android.calendar",
+        "displayName": "Google Kalender",
+        "packageName": "com.google.android.calendar",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.google.android.calendar"
       },
       {
-        "id": "authenticator",
-        "aliasName": "Authenticator",
-        "packageName": "com.azure.authenticator"
+        "id": "com.azure.authenticator",
+        "displayName": "Microsoft Authenticator",
+        "packageName": "com.azure.authenticator",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.azure.authenticator"
       }
     ],
-    "shortcuts": [],
-    "duplicateStrategy": "CATALOG_ALIAS_OR_DYNAMIC_SHORTCUT",
-    "downloadUrl": "https://raw.githubusercontent.com/greinerklu/handy-verteilung/main/provisioning/stable/apks/de.provisioning.station.placeholder-1.1.7.apk",
-    "downloadSha256": "u8Dd8s1hmG2On39rExktdT05jrkbU7jo6aAKc21ZSQ8"
+    "presentation": "COMPANY_APP_STORE",
+    "downloadUrl": "https://raw.githubusercontent.com/greinerklu/handy-verteilung/main/provisioning/stable/apks/de.provisioning.station.placeholder-1.1.8.apk",
+    "downloadSha256": "bHxxFigpuE4vr7AcjhooUsP6virt3b7UwV_7IEmrbvw"
   },
   "redmiHyperOs": {
     "disablePersonalizedAds": true,
