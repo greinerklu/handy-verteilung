@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 31,
+  "configurationVersion": 32,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -331,7 +331,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "31:0",
+  "policyRevision": "32:0",
   "email": {
     "provider": "manual",
     "appPackage": "com.google.android.gm",
