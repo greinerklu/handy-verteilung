@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 23,
+  "configurationVersion": 24,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -182,6 +182,17 @@
       "localFileName": null
     },
     {
+      "displayName": "Microsoft Outlook",
+      "packageName": "com.microsoft.office.outlook",
+      "catalogId": "outlook",
+      "aliasName": "Outlook",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -295,6 +306,12 @@
         "displayName": "Google Kalender",
         "packageName": "com.google.android.calendar",
         "playUrl": "https://play.google.com/store/apps/details?id=com.google.android.calendar"
+      },
+      {
+        "id": "com.microsoft.office.outlook",
+        "displayName": "Microsoft Outlook",
+        "packageName": "com.microsoft.office.outlook",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook"
       }
     ],
     "presentation": "COMPANY_APP_STORE",
@@ -331,7 +348,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "23:0",
+  "policyRevision": "24:0",
   "email": {
     "provider": "manual",
     "appPackage": "com.google.android.gm",
