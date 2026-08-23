@@ -206,8 +206,8 @@
   ],
   "placeholderApp": {
     "packageName": "de.provisioning.station.placeholder",
-    "versionCode": 8,
-    "versionName": "1.1.6",
+    "versionCode": 9,
+    "versionName": "1.1.7",
     "enabledAliases": [
       "lindab_vent_tools",
       "trox_flowcheck",
@@ -316,8 +316,8 @@
     ],
     "shortcuts": [],
     "duplicateStrategy": "CATALOG_ALIAS_OR_DYNAMIC_SHORTCUT",
-    "downloadUrl": "https://raw.githubusercontent.com/greinerklu/handy-verteilung/main/provisioning/stable/apks/de.provisioning.station.placeholder-1.1.6.apk",
-    "downloadSha256": "v19ZN-8to2OA9tr6JTCXjy9X-zOTsykcVgHlRrsyRCo"
+    "downloadUrl": "https://raw.githubusercontent.com/greinerklu/handy-verteilung/main/provisioning/stable/apks/de.provisioning.station.placeholder-1.1.7.apk",
+    "downloadSha256": "u8Dd8s1hmG2On39rExktdT05jrkbU7jo6aAKc21ZSQ8"
   },
   "redmiHyperOs": {
     "disablePersonalizedAds": true,
