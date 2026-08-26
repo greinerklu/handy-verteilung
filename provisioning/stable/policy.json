@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 35,
+  "configurationVersion": 36,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -182,6 +182,50 @@
       "localFileName": null
     },
     {
+      "displayName": "Pandora Connect",
+      "packageName": "ru.alarmtrade.connect",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=ru.alarmtrade.connect&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "DS-File",
+      "packageName": "com.synology.DS",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.synology.DSfile&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Obeta",
+      "packageName": "de.obeta.shop",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=de.obeta.shop&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Daikin to go",
+      "packageName": "de.ersteheimat.daikintogo",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=de.ersteheimat.daikintogo&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -295,6 +339,30 @@
         "displayName": "Google Kalender",
         "packageName": "com.google.android.calendar",
         "playUrl": "https://play.google.com/store/apps/details?id=com.google.android.calendar"
+      },
+      {
+        "id": "ru.alarmtrade.connect",
+        "displayName": "Pandora Connect",
+        "packageName": "ru.alarmtrade.connect",
+        "playUrl": "https://play.google.com/store/apps/details?id=ru.alarmtrade.connect&hl=de"
+      },
+      {
+        "id": "com.synology.DS",
+        "displayName": "DS-File",
+        "packageName": "com.synology.DS",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.synology.DSfile&hl=de"
+      },
+      {
+        "id": "de.obeta.shop",
+        "displayName": "Obeta",
+        "packageName": "de.obeta.shop",
+        "playUrl": "https://play.google.com/store/apps/details?id=de.obeta.shop&hl=de"
+      },
+      {
+        "id": "de.ersteheimat.daikintogo",
+        "displayName": "Daikin to go",
+        "packageName": "de.ersteheimat.daikintogo",
+        "playUrl": "https://play.google.com/store/apps/details?id=de.ersteheimat.daikintogo&hl=de"
       }
     ],
     "presentation": "COMPANY_APP_STORE",
@@ -331,7 +399,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "35:0",
+  "policyRevision": "36:0",
   "email": {
     "provider": "manual",
     "appPackage": "com.google.android.gm",
