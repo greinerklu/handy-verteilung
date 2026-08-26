@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 38,
+  "configurationVersion": 39,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -252,7 +252,7 @@
       "packageName": "de.icnh.stulz",
       "catalogId": null,
       "aliasName": null,
-      "deploymentMode": "REQUIRED",
+      "deploymentMode": "PLACEHOLDER",
       "sourceType": "play",
       "sourceValue": "https://play.google.com/store/apps/details?id=de.icnh.stulz&hl=de",
       "expectedVersion": "",
@@ -263,7 +263,7 @@
       "packageName": "com.danfoss.koolapp",
       "catalogId": null,
       "aliasName": null,
-      "deploymentMode": "REQUIRED",
+      "deploymentMode": "PLACEHOLDER",
       "sourceType": "play",
       "sourceValue": "https://play.google.com/store/apps/details?id=com.danfoss.koolapp&hl=de",
       "expectedVersion": "",
@@ -274,7 +274,7 @@
       "packageName": "com.lge.android.lgmv",
       "catalogId": null,
       "aliasName": null,
-      "deploymentMode": "REQUIRED",
+      "deploymentMode": "PLACEHOLDER",
       "sourceType": "play",
       "sourceValue": "https://play.google.com/store/apps/details?id=com.lge.android.lgmv&hl=de",
       "expectedVersion": "",
@@ -285,7 +285,7 @@
       "packageName": "com.mitsubishi.meengineer.android.live",
       "catalogId": null,
       "aliasName": null,
-      "deploymentMode": "REQUIRED",
+      "deploymentMode": "PLACEHOLDER",
       "sourceType": "play",
       "sourceValue": "https://play.google.com/store/apps/details?id=com.mitsubishi.meengineer.android.live&hl=de",
       "expectedVersion": "",
@@ -296,7 +296,7 @@
       "packageName": "jp.co.toshiba_carrier.WaveToolAdvance",
       "catalogId": null,
       "aliasName": null,
-      "deploymentMode": "REQUIRED",
+      "deploymentMode": "PLACEHOLDER",
       "sourceType": "play",
       "sourceValue": "https://play.google.com/store/apps/details?id=jp.co.toshiba_carrier.WaveToolAdvance&hl=de",
       "expectedVersion": "",
@@ -452,6 +452,36 @@
         "displayName": "MTF Service",
         "packageName": "net.mtfonline.mtfservice",
         "playUrl": "https://play.google.com/store/apps/details?id=net.mtfonline.mtfservice&hl=de"
+      },
+      {
+        "id": "de.icnh.stulz",
+        "displayName": "S-Klima Pro",
+        "packageName": "de.icnh.stulz",
+        "playUrl": "https://play.google.com/store/apps/details?id=de.icnh.stulz&hl=de"
+      },
+      {
+        "id": "com.danfoss.koolapp",
+        "displayName": "REF Tools Danfoss",
+        "packageName": "com.danfoss.koolapp",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.danfoss.koolapp&hl=de"
+      },
+      {
+        "id": "com.lge.android.lgmv",
+        "displayName": "Mobile LGMV",
+        "packageName": "com.lge.android.lgmv",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.lge.android.lgmv&hl=de"
+      },
+      {
+        "id": "com.mitsubishi.meengineer.android.live",
+        "displayName": "ME Engeneer",
+        "packageName": "com.mitsubishi.meengineer.android.live",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.mitsubishi.meengineer.android.live&hl=de"
+      },
+      {
+        "id": "jp.co.toshiba_carrier.WaveToolAdvance",
+        "displayName": "Wave Tool Advance",
+        "packageName": "jp.co.toshiba_carrier.WaveToolAdvance",
+        "playUrl": "https://play.google.com/store/apps/details?id=jp.co.toshiba_carrier.WaveToolAdvance&hl=de"
       }
     ],
     "presentation": "COMPANY_APP_STORE",
@@ -488,7 +518,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "38:0",
+  "policyRevision": "39:0",
   "email": {
     "provider": "manual",
     "appPackage": "com.google.android.gm",
