@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 36,
+  "configurationVersion": 37,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -226,6 +226,50 @@
       "localFileName": null
     },
     {
+      "displayName": "Madoka Assistant",
+      "packageName": "com.daikineurope.control.assistant",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.daikineurope.control.assistant&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "MTF Service",
+      "packageName": "net.mtfonline.mtfservice",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=net.mtfonline.mtfservice&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "S-Klima Pro",
+      "packageName": "de.icnh.stulz",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "REQUIRED",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=de.icnh.stulz&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "REF Tools Danfoss",
+      "packageName": "com.danfoss.koolapp",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "REQUIRED",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.danfoss.koolapp&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -363,6 +407,18 @@
         "displayName": "Daikin to go",
         "packageName": "de.ersteheimat.daikintogo",
         "playUrl": "https://play.google.com/store/apps/details?id=de.ersteheimat.daikintogo&hl=de"
+      },
+      {
+        "id": "com.daikineurope.control.assistant",
+        "displayName": "Madoka Assistant",
+        "packageName": "com.daikineurope.control.assistant",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.daikineurope.control.assistant&hl=de"
+      },
+      {
+        "id": "net.mtfonline.mtfservice",
+        "displayName": "MTF Service",
+        "packageName": "net.mtfonline.mtfservice",
+        "playUrl": "https://play.google.com/store/apps/details?id=net.mtfonline.mtfservice&hl=de"
       }
     ],
     "presentation": "COMPANY_APP_STORE",
@@ -399,7 +455,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "36:0",
+  "policyRevision": "37:0",
   "email": {
     "provider": "manual",
     "appPackage": "com.google.android.gm",
