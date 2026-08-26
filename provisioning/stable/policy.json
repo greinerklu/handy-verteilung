@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 37,
+  "configurationVersion": 38,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -270,6 +270,39 @@
       "localFileName": null
     },
     {
+      "displayName": "Mobile LGMV",
+      "packageName": "com.lge.android.lgmv",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "REQUIRED",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.lge.android.lgmv&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "ME Engeneer",
+      "packageName": "com.mitsubishi.meengineer.android.live",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "REQUIRED",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.mitsubishi.meengineer.android.live&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Wave Tool Advance",
+      "packageName": "jp.co.toshiba_carrier.WaveToolAdvance",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "REQUIRED",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=jp.co.toshiba_carrier.WaveToolAdvance&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -455,7 +488,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "37:0",
+  "policyRevision": "38:0",
   "email": {
     "provider": "manual",
     "appPackage": "com.google.android.gm",
