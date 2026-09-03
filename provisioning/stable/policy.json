@@ -520,16 +520,16 @@
   },
   "policyRevision": "39:0",
   "email": {
-    "provider": "manual",
+    "provider": "imap",
     "appPackage": "com.google.android.gm",
     "manualSetup": true,
-    "exchangeHost": "connect.klu-klima.de",
-    "exchangePort": 443,
-    "usernamePattern": "{email}",
+    "imapHost": "connect.klu-klima.de",
+    "imapPort": 993,
+    "smtpHost": "connect.klu-klima.de",
+    "smtpPort": 465,
     "useSsl": true,
     "clientCertificateEnabled": false,
-    "acceptAllCertificates": true,
-    "authenticationType": "allow_basic_authentication"
+    "acceptAllCertificates": true
   },
   "payrollTestApp": {
     "displayName": "Lohnabrechnung",
