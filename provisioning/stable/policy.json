@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 39,
+  "configurationVersion": 40,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -303,6 +303,17 @@
       "localFileName": null
     },
     {
+      "displayName": "Microsoft Outlook",
+      "packageName": "com.microsoft.office.outlook",
+      "catalogId": "outlook",
+      "aliasName": "Outlook",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -482,6 +493,12 @@
         "displayName": "Wave Tool Advance",
         "packageName": "jp.co.toshiba_carrier.WaveToolAdvance",
         "playUrl": "https://play.google.com/store/apps/details?id=jp.co.toshiba_carrier.WaveToolAdvance&hl=de"
+      },
+      {
+        "id": "com.microsoft.office.outlook",
+        "displayName": "Microsoft Outlook",
+        "packageName": "com.microsoft.office.outlook",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook"
       }
     ],
     "presentation": "COMPANY_APP_STORE",
@@ -518,7 +535,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "39:0",
+  "policyRevision": "40:0",
   "email": {
     "provider": "imap",
     "appPackage": "com.google.android.gm",
