@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 42,
+  "configurationVersion": 43,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -325,6 +325,17 @@
       "localFileName": null
     },
     {
+      "displayName": "Google Fotos",
+      "packageName": "com.google.android.apps.photos",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "REQUIRED",
+      "sourceType": "play",
+      "sourceValue": "",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -552,7 +563,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "42:0",
+  "policyRevision": "43:0",
   "email": {
     "provider": "exchange",
     "appPackage": "com.google.android.gm",
