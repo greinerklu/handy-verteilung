@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 41,
+  "configurationVersion": 42,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -314,6 +314,17 @@
       "localFileName": null
     },
     {
+      "displayName": "Gallerie",
+      "packageName": "com.miui.gallery",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -499,6 +510,12 @@
         "displayName": "Microsoft Outlook",
         "packageName": "com.microsoft.office.outlook",
         "playUrl": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook"
+      },
+      {
+        "id": "com.miui.gallery",
+        "displayName": "Gallerie",
+        "packageName": "com.miui.gallery",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.miui.gallery"
       }
     ],
     "presentation": "COMPANY_APP_STORE",
@@ -535,7 +552,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "41:0",
+  "policyRevision": "42:0",
   "email": {
     "provider": "exchange",
     "appPackage": "com.google.android.gm",
