@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 43,
+  "configurationVersion": 44,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -329,7 +329,7 @@
       "packageName": "com.google.android.apps.photos",
       "catalogId": null,
       "aliasName": null,
-      "deploymentMode": "REQUIRED",
+      "deploymentMode": "PLACEHOLDER",
       "sourceType": "play",
       "sourceValue": "",
       "expectedVersion": "",
@@ -527,6 +527,12 @@
         "displayName": "Gallerie",
         "packageName": "com.miui.gallery",
         "playUrl": "https://play.google.com/store/apps/details?id=com.miui.gallery"
+      },
+      {
+        "id": "com.google.android.apps.photos",
+        "displayName": "Google Fotos",
+        "packageName": "com.google.android.apps.photos",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos"
       }
     ],
     "presentation": "COMPANY_APP_STORE",
@@ -563,7 +569,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "43:0",
+  "policyRevision": "44:0",
   "email": {
     "provider": "exchange",
     "appPackage": "com.google.android.gm",
