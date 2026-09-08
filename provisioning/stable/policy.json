@@ -537,9 +537,11 @@
   },
   "policyRevision": "40:0",
   "email": {
-    "provider": "imap",
+    "provider": "exchange",
     "appPackage": "com.google.android.gm",
     "manualSetup": true,
+    "exchangeHost": "connect.klu-klima.de",
+    "caCertificates": [],
     "imapHost": "connect.klu-klima.de",
     "imapPort": 993,
     "smtpHost": "connect.klu-klima.de",
