@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 44,
+  "configurationVersion": 45,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -556,7 +556,7 @@
     "allowUsbFileTransfer": true,
     "allowBluetooth": true,
     "allowLocationChanges": true,
-    "allowUnknownSources": false,
+    "allowUnknownSources": true,
     "autoSetDevicePin": true,
     "enforceAutomaticTime": false,
     "enforcePasswordComplexity": false
@@ -569,7 +569,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "44:0",
+  "policyRevision": "45:0",
   "email": {
     "provider": "exchange",
     "appPackage": "com.google.android.gm",
