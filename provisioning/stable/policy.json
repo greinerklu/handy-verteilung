@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 45,
+  "configurationVersion": 46,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -336,6 +336,17 @@
       "localFileName": null
     },
     {
+      "displayName": "Google APP",
+      "packageName": "com.google.android.googlequicksearchbox",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -533,6 +544,12 @@
         "displayName": "Google Fotos",
         "packageName": "com.google.android.apps.photos",
         "playUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos"
+      },
+      {
+        "id": "com.google.android.googlequicksearchbox",
+        "displayName": "Google APP",
+        "packageName": "com.google.android.googlequicksearchbox",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox&hl=de"
       }
     ],
     "presentation": "COMPANY_APP_STORE",
@@ -569,7 +586,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "45:0",
+  "policyRevision": "46:0",
   "email": {
     "provider": "exchange",
     "appPackage": "com.google.android.gm",
