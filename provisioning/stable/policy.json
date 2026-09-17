@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 47,
+  "configurationVersion": 48,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -347,6 +347,50 @@
       "localFileName": null
     },
     {
+      "displayName": "Testo Smart",
+      "packageName": "de.testo.smartprobesappgen",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=de.testo.smartprobesappgen2&utm_source=emea_Med",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "SHK Shop",
+      "packageName": "com.andreaspaulsen.app",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.andreaspaulsen.app&utm_source=emea_Med",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Bosch Easy Service",
+      "packageName": "com.bosch.de.tt.junkers.junkersdiagnose",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.bosch.de.tt.junkers.junkersdiagnose&utm_source=emea_Med",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Danfoss Ally",
+      "packageName": "com.danfoss.ally",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.danfoss.ally&utm_source=emea_Med",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -550,6 +594,30 @@
         "displayName": "Google APP",
         "packageName": "com.google.android.googlequicksearchbox",
         "playUrl": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox&hl=de"
+      },
+      {
+        "id": "de.testo.smartprobesappgen",
+        "displayName": "Testo Smart",
+        "packageName": "de.testo.smartprobesappgen",
+        "playUrl": "https://play.google.com/store/apps/details?id=de.testo.smartprobesappgen2&utm_source=emea_Med"
+      },
+      {
+        "id": "com.andreaspaulsen.app",
+        "displayName": "SHK Shop",
+        "packageName": "com.andreaspaulsen.app",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.andreaspaulsen.app&utm_source=emea_Med"
+      },
+      {
+        "id": "com.bosch.de.tt.junkers.junkersdiagnose",
+        "displayName": "Bosch Easy Service",
+        "packageName": "com.bosch.de.tt.junkers.junkersdiagnose",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.bosch.de.tt.junkers.junkersdiagnose&utm_source=emea_Med"
+      },
+      {
+        "id": "com.danfoss.ally",
+        "displayName": "Danfoss Ally",
+        "packageName": "com.danfoss.ally",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.danfoss.ally&utm_source=emea_Med"
       }
     ],
     "presentation": "COMPANY_APP_STORE",
@@ -586,7 +654,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "47:0",
+  "policyRevision": "48:0",
   "email": {
     "provider": "exchange",
     "appPackage": "com.google.android.gm",
