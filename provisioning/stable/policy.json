@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 51,
+  "configurationVersion": 52,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -391,6 +391,17 @@
       "localFileName": null
     },
     {
+      "displayName": "Meine Notizen",
+      "packageName": "net.kreosoft.android.mynotes",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=net.kreosoft.android.mynotes&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -618,6 +629,12 @@
         "displayName": "Danfoss Ally",
         "packageName": "com.danfoss.ally",
         "playUrl": "https://play.google.com/store/apps/details?id=com.danfoss.ally&utm_source=emea_Med"
+      },
+      {
+        "id": "net.kreosoft.android.mynotes",
+        "displayName": "Meine Notizen",
+        "packageName": "net.kreosoft.android.mynotes",
+        "playUrl": "https://play.google.com/store/apps/details?id=net.kreosoft.android.mynotes&hl=de"
       }
     ],
     "presentation": "COMPANY_APP_STORE",
@@ -654,7 +671,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "51:0",
+  "policyRevision": "52:0",
   "email": {
     "provider": "exchange",
     "appPackage": "com.google.android.gm",
