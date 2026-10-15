@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 53,
+  "configurationVersion": 54,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -406,7 +406,7 @@
       "packageName": "com.nextcloud.client",
       "catalogId": null,
       "aliasName": null,
-      "deploymentMode": "REQUIRED",
+      "deploymentMode": "PLACEHOLDER",
       "sourceType": "play",
       "sourceValue": "https://play.google.com/store/apps/details?id=com.nextcloud.client&hl=de",
       "expectedVersion": "",
@@ -646,6 +646,12 @@
         "displayName": "Meine Notizen",
         "packageName": "net.kreosoft.android.mynotes",
         "playUrl": "https://play.google.com/store/apps/details?id=net.kreosoft.android.mynotes&hl=de"
+      },
+      {
+        "id": "com.nextcloud.client",
+        "displayName": "Next Cloud",
+        "packageName": "com.nextcloud.client",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.nextcloud.client&hl=de"
       }
     ],
     "presentation": "COMPANY_APP_STORE",
@@ -682,7 +688,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "53:0",
+  "policyRevision": "54:0",
   "email": {
     "provider": "exchange",
     "appPackage": "com.google.android.gm",
