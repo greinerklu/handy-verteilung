@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 52,
+  "configurationVersion": 53,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -402,6 +402,17 @@
       "localFileName": null
     },
     {
+      "displayName": "Next Cloud",
+      "packageName": "com.nextcloud.client",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "REQUIRED",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.nextcloud.client&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -671,7 +682,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "52:0",
+  "policyRevision": "53:0",
   "email": {
     "provider": "exchange",
     "appPackage": "com.google.android.gm",
