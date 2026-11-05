@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 63,
+  "configurationVersion": 64,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -437,6 +437,17 @@
       "localFileName": null
     },
     {
+      "displayName": "WPS Office",
+      "packageName": "cn.wps.moffice_eng",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=cn.wps.moffice_eng&hl=de",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -688,6 +699,12 @@
         "displayName": "Google Sheets",
         "packageName": "com.google.android.apps.docs.editors.sheets",
         "playUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets&hl=de"
+      },
+      {
+        "id": "cn.wps.moffice_eng",
+        "displayName": "WPS Office",
+        "packageName": "cn.wps.moffice_eng",
+        "playUrl": "https://play.google.com/store/apps/details?id=cn.wps.moffice_eng&hl=de"
       }
     ],
     "presentation": "COMPANY_APP_STORE",
@@ -724,7 +741,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "63:0",
+  "policyRevision": "64:0",
   "email": {
     "provider": "exchange",
     "appPackage": "com.google.android.gm",
