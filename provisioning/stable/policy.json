@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 56,
+  "configurationVersion": 60,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -413,17 +413,26 @@
       "localFileName": null
     },
     {
-      "displayName": "de.klu.urlaub",
-      "packageName": "de.klu.urlaub",
+      "displayName": "WPS Office",
+      "packageName": "cn.wps.moffice_eng",
       "catalogId": null,
       "aliasName": null,
       "deploymentMode": "PLACEHOLDER",
-      "sourceType": "apk",
-      "sourceValue": "",
-      "expectedVersion": "0.1.4-test",
-      "localFileName": "KLU-Urlaub-0.1.4-test.apk",
-      "downloadUrl": "https://raw.githubusercontent.com/greinerklu/handy-verteilung/main/provisioning/stable/apks/de.klu.urlaub-0.1.4-test.apk",
-      "downloadSha256": "TcaQs7pGlD8IkKJgc3niUU9VpsUQEPKkHLDVQeEpcHE"
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=cn.wps.moffice_eng",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
+      "displayName": "Google Sheets",
+      "packageName": "com.google.android.apps.docs.editors.sheets",
+      "catalogId": null,
+      "aliasName": null,
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets",
+      "expectedVersion": "",
+      "localFileName": null
     },
     {
       "displayName": "Gmail",
@@ -667,10 +676,16 @@
         "playUrl": "https://play.google.com/store/apps/details?id=com.nextcloud.client&hl=de"
       },
       {
-        "id": "de.klu.urlaub",
-        "displayName": "de.klu.urlaub",
-        "packageName": "de.klu.urlaub",
-        "playUrl": "https://play.google.com/store/apps/details?id=de.klu.urlaub"
+        "id": "cn.wps.moffice_eng",
+        "displayName": "WPS Office",
+        "packageName": "cn.wps.moffice_eng",
+        "playUrl": "https://play.google.com/store/apps/details?id=cn.wps.moffice_eng"
+      },
+      {
+        "id": "com.google.android.apps.docs.editors.sheets",
+        "displayName": "Google Sheets",
+        "packageName": "com.google.android.apps.docs.editors.sheets",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets"
       }
     ],
     "presentation": "COMPANY_APP_STORE",
@@ -707,7 +722,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "56:0",
+  "policyRevision": "60:0",
   "email": {
     "provider": "exchange",
     "appPackage": "com.google.android.gm",
