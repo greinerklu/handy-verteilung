@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 65,
+  "configurationVersion": 66,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -435,19 +435,6 @@
       "localFileName": null
     },
     {
-      "displayName": "de.klu.urlaub",
-      "packageName": "de.klu.urlaub",
-      "catalogId": null,
-      "aliasName": null,
-      "deploymentMode": "REQUIRED",
-      "sourceType": "apk",
-      "sourceValue": "",
-      "expectedVersion": "0.1.5",
-      "localFileName": "KLU-Urlaub-0.1.5-release.apk",
-      "downloadUrl": "https://raw.githubusercontent.com/greinerklu/handy-verteilung/main/provisioning/stable/apks/de.klu.urlaub-0.1.5.apk",
-      "downloadSha256": "P3pz_jkf8gZV1eA_7Tyc6BtqU0nMPUn6APcXqfS-eT8"
-    },
-    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -735,7 +722,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "65:0",
+  "policyRevision": "66:0",
   "email": {
     "provider": "exchange",
     "appPackage": "com.google.android.gm",
