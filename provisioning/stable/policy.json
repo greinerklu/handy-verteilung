@@ -1,5 +1,5 @@
 {
-  "configurationVersion": 67,
+  "configurationVersion": 68,
   "supportedModels": [
     "Redmi Note 14",
     "Redmi Note 15"
@@ -448,6 +448,17 @@
       "downloadSha256": "1yzKc_c4HX6A5PE6gdJQr7traEJkEWERc2Gq3R5NQXk"
     },
     {
+      "displayName": "Adobe Reader",
+      "packageName": "com.adobe.reader",
+      "catalogId": "acrobat",
+      "aliasName": "Acrobat",
+      "deploymentMode": "PLACEHOLDER",
+      "sourceType": "play",
+      "sourceValue": "https://play.google.com/store/apps/details?id=com.adobe.reader&utm_source=emea_Med",
+      "expectedVersion": "",
+      "localFileName": null
+    },
+    {
       "displayName": "Gmail",
       "packageName": "com.google.android.gm",
       "catalogId": null,
@@ -699,6 +710,12 @@
         "displayName": "WPS Office",
         "packageName": "cn.wps.moffice_eng",
         "playUrl": "https://play.google.com/store/apps/details?id=cn.wps.moffice_eng&hl=de"
+      },
+      {
+        "id": "com.adobe.reader",
+        "displayName": "Adobe Reader",
+        "packageName": "com.adobe.reader",
+        "playUrl": "https://play.google.com/store/apps/details?id=com.adobe.reader&utm_source=emea_Med"
       }
     ],
     "presentation": "COMPANY_APP_STORE",
@@ -735,7 +752,7 @@
       "com.android.messaging"
     ]
   },
-  "policyRevision": "67:0",
+  "policyRevision": "68:0",
   "email": {
     "provider": "exchange",
     "appPackage": "com.google.android.gm",
